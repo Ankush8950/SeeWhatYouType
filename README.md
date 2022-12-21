@@ -5,6 +5,6 @@
 [![Html](https://img.shields.io/badge/-HTML-red?style=for-the-badge&labelColor=black&logo=html&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-javascript-blue?style=for-the-badge&labelColor=black&logo=tailwind&logoColor=white)](#)
  
 
-# 🚀 [LiVE PROJECT LINK](https://voluble-narwhal-485b00.netlify.app/) 
+# 🚀 [LiVE PROJECT LINK](https://eclectic-rugelach-de023d.netlify.app/) 
 
 ![color change](./seeyoutype.png)
